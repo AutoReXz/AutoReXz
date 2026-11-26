@@ -24,6 +24,12 @@ A Bangkit Academy 2024 capstone that helps users find properties in Yogyakarta b
 
 [Read the case study](https://github.com/AutoReXz/hoptima-property-recommendation) · [Watch the capstone demo](https://youtu.be/ZExdRTqDkRc)
 
+### TA Guide AI — PDF Question Answering
+
+An Indonesian-language assistant for thesis and final-project guides. It indexes a PDF provided by the user, combines keyword and semantic search, and returns answers with page references through a Streamlit chat app.
+
+[View the project and setup guide](https://github.com/AutoReXz/TA-Guide-AI)
+
 ### Bike Rental Analysis Dashboard
 
 A coursework project that uses Python and Streamlit to explore bike rentals by hour, season, and weather using the UCI Bike Sharing Dataset.
